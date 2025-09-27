@@ -1,11 +1,11 @@
-# 🚀 Deploy Automático com Vagrant
+# Deploy Automático com Vagrant
 
 Esse projeto eu fiz pra praticar **deploy automatizado** usando **Vagrant** e **VirtualBox**.  
 A ideia é bem simples: criar uma VM com **Ubuntu**, rodar um script de provisionamento e já deixar um site rodando na rede local.
 
 ---
 
-## 📌 Passo a passo
+## Passo a passo
 
 ```bash
 # 1. Abri o terminal na pasta do projeto:
